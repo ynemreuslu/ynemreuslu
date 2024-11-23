@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="480" height="480"/>
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="320" height="320"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Uslu</h1>
@@ -23,9 +23,12 @@
 </a>
 </p>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,git,github&theme=light)](https://skillicons.dev)
-
+<h3 align="left">Skills</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,git,github&theme=light" alt="My Skills">
+  </a>
+</p>
 
 
 
