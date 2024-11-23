@@ -9,7 +9,7 @@
 
 <div style="position: absolute; bottom: 10px; right: 10px; text-align: right;">
   <p>🌱 <strong>I’m currently learning Android Development</strong></p>
-  <p>📫 <strong>How to reach me</strong>: ynemreuslu@gmail.com</p>
+<p>📫 <strong>How to reach me</strong>: <a href="mailto:ynemreuslu@gmail.com">ynemreuslu@gmail.com</a></p>
   <p>⚡ <strong>Fun fact</strong>: I enjoy learning Kotlin and will never get bored of it!</p>
 </div>
 
